@@ -22,7 +22,7 @@ This is a QR Code Component on the Challenge Hub on Frontend Mentor
 ![My Screenshot](<Web capture_2-8-2023_123245_-1-1.jpeg>)
 
 ### Links
-- Live Site URL: (https://gemgabriel1.github.io/Projects-on-Frontend/)
+- Live Site URL: (https://gemgabriel1.github.io/Frontend-Projects/))
 
 ### Built with
 - Semantic HTML5 markup
