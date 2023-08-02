@@ -21,7 +21,7 @@ place-content: center;
 background-color:hsl(212, 45%, 89%);
 }
 
-.rectangle{
+.boc{
 width:300px;
 height:450px;
 background-color: white;
@@ -38,4 +38,25 @@ margin-top: 25vh;
 .qr-code{
 width: 270px;
 border-radius: 10px;
+}
+
+.bottom-half {
+  text-align: center;
+}
+
+.improve {
+  width: 240px;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 20px;
+  color: hsl(218, 44%, 22%);
+}
+
+.scan {
+  color: hsl(220, 15%, 55%);
+  width: 260px;
+  font-size: 12px;
+  width: 211px;
+  margin-top: 12px;
+  margin-left: 12px;
 }
