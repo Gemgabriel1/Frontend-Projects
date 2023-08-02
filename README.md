@@ -23,6 +23,7 @@ This is a QR Code Component on the Challenge Hub on Frontend Mentor
 
 ### Links
 - Live Site URL: (https://gemgabriel1.github.io/Frontend-Projects/))
+- URL: (file:///C:/Users/hi/Desktop/qr-code-component-main/index.html)
 
 ### Built with
 - Semantic HTML5 markup
